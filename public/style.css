@@ -3,9 +3,6 @@
     background-size: 100% auto;
 };
 
-body{
-    background-color: black !important;
-}
 
 h1{
     font-size: 55px;
@@ -39,10 +36,4 @@ img{
     min-width: 450px;
     min-height: 400px;
     border: solid black 6px;
-}
-
-#text-center p-3{
-    position: fixed;
-    bottom: 0;
-    width: 100%;
 }
